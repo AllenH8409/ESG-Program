@@ -2,6 +2,8 @@
 
 ESG learning in NTUT
 
+https://unsdg.un.org/sdgs/affordable-and-clean-energy
+
 ![image](https://github.com/user-attachments/assets/bbf12060-50d1-46f9-bb3e-50bab99c1658)
 
 ![image](https://github.com/user-attachments/assets/970194c5-275b-4c2a-8166-28574ad5c607)
