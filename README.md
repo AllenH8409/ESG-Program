@@ -1,11 +1,11 @@
 # Reports of SDGs 永續發展目標 第七項 可負擔的潔淨能源 (Affordable and Clean Energy)
 
 ESG learning in NTUT
+![image](https://github.com/user-attachments/assets/d8744ed0-c1ce-483c-8bc7-e6f722eb0f4b)
 
+![image](https://github.com/user-attachments/assets/3c60c06f-2398-4034-9c48-875ea64cae5c)
 
-![image](https://github.com/user-attachments/assets/bbf12060-50d1-46f9-bb3e-50bab99c1658)
-
-![image](https://github.com/user-attachments/assets/970194c5-275b-4c2a-8166-28574ad5c607)
+![image](https://github.com/user-attachments/assets/39d18953-b2a0-4f6d-8e4b-42a0f598c216)
 
 ![image](https://github.com/user-attachments/assets/8e816f3c-6c6e-417d-a5df-9e36b53493ea)
 
