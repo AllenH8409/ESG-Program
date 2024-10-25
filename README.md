@@ -9,7 +9,7 @@ ESG learning in NTUT
 
 ![image](https://github.com/user-attachments/assets/8e816f3c-6c6e-417d-a5df-9e36b53493ea)
 
-![image](https://github.com/user-attachments/assets/99b3d164-767d-447f-bacc-1a902f60130b)
+![image](https://github.com/user-attachments/assets/d919c068-b82c-4187-b6b4-cef215a4ac76)
 
 ![image](https://github.com/user-attachments/assets/1508085c-ee03-4d70-be79-a2678de72973)
 
