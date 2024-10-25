@@ -20,7 +20,7 @@ Reference:
 聯合國 SDGs (Sustainable Development Goals)- 7.Ensure access to affordable, reliable, sustainable and modern energy for all
 https://unsdg.un.org/sdgs/affordable-and-clean-energy
 
-行政院 產業創新報告/綠能科技產業創新推動方案 
+行政院 產業創新報告/綠能科技產業創新推動方案
 https://www.ey.gov.tw/achievement/F856D03EF813C8E7
 
 林子倫談SDG7可負擔的潔淨能源：能源轉型三條件，技術、成本、接受度！
