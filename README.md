@@ -17,8 +17,12 @@ ESG learning in NTUT
 
 
 Reference:
-
+聯合國 SDGs (Sustainable Development Goals)- 7.Ensure access to affordable, reliable, sustainable and modern energy for all
 https://unsdg.un.org/sdgs/affordable-and-clean-energy
+行政院 產業創新報告/綠能科技產業創新推動方案 
+![image](https://github.com/user-attachments/assets/584ad1d4-57a6-4bb4-87e8-e5a704faba83)
+
+https://www.ey.gov.tw/achievement/F856D03EF813C8E7
 
 https://esg.businesstoday.com.tw/article/category/180698/post/202304240010/?????15?????SDG7
 
