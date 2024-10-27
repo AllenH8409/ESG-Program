@@ -29,6 +29,7 @@ https://esg.businesstoday.com.tw/article/category/180698/post/202304240010/?????
 Podcasts- SDG 7 主題專訪 - 林子倫教授：可負擔的潔淨能源 - 能源轉型是綠色革命關鍵 以政策實踐為下代留下一方淨土
 https://podcasts.apple.com/tw/podcast/sdg-7-%E4%B8%BB%E9%A1%8C%E5%B0%88%E8%A8%AA-%E6%9E%97%E5%AD%90%E5%80%AB%E6%95%99%E6%8E%88-%E5%8F%AF%E8%B2%A0%E6%93%94%E7%9A%84%E6%BD%94%E6%B7%A8%E8%83%BD%E6%BA%90-%E8%83%BD%E6%BA%90%E8%BD%89%E5%9E%8B%E6%98%AF%E7%B6%A0%E8%89%B2%E9%9D%A9%E5%91%BD%E9%97%9C%E9%8D%B5-%E4%BB%A5%E6%94%BF%E7%AD%96%E5%AF%A6%E8%B8%90%E7%82%BA%E4%B8%8B%E4%BB%A3%E7%95%99%E4%B8%8B%E4%B8%80%E6%96%B9%E6%B7%A8%E5%9C%9F/id1608554647?i=1000608354996
 
+The information on energy access and sources can be found at the Our World in Data topic page on Energy.
 https://ourworldindata.org/sdgs/affordable-clean-energy#sdg-indicator-7-b-1-expanding-energy-services-for-developing-countries
 
 
